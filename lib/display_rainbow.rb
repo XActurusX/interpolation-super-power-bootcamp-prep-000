@@ -1,6 +1,7 @@
 # Write your #display_rainbow method here
-def pick(color)
-  color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+def display_rainbow(color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+)
+
 
   puts "The color for R : #{color[0]}"
     puts "The color for O : #{color[1]}"
