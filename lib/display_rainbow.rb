@@ -9,6 +9,5 @@ def display_rainbow(color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo
           puts "The color for B : #{color[4]}"
             puts "The color for I : #{color[5]}"
             puts "The color for V : #{color[6]}"
-
 end
 p display_rainbow
